@@ -1,6 +1,5 @@
 Library Management System
 
-
 Welcome to the Library Management System, a Python-based application designed to help manage the operations of a library efficiently. This system allows for managing books, members, and transactions such as issuing and returning books.
 
 Features:
