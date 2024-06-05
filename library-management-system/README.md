@@ -3,7 +3,7 @@ A simple flask app to manage users along with mysql service now with [docker sup
 
 ![Libray Management App - Flask](https://github.com/hamzaavvan/library-management-system/blob/master/ss/ss2.JPG?raw=true)
 
-**Youtube Tutorial Walkthrough:** [https://www.youtube.com/watch?v=As90fkeMkyA](https://www.youtube.com/watch?v=As90fkeMkyA)
+
 
 
 ## Installation
