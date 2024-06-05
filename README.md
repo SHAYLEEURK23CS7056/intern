@@ -17,6 +17,9 @@ Reports: Generate various reports such as issued books, overdue books, and membe
 
 Technologies Used:
 
-Python 3.x,
-mysql,
-xampp .
+Programming Language: Python
+Frameworks: Django, Flask
+Database: SQLite, PostgreSQL
+Security Libraries: cryptography, Django authentication libraries
+Web Technologies: HTML, CSS, JavaScript
+Version Control: Git
