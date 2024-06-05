@@ -1,4 +1,5 @@
 Library Management System
+
 A simple flask app to manage users along with mysql service now with docker support.
 
 Libray Management App - Flask
