@@ -13,6 +13,6 @@ Reports: Generate various reports such as issued books, overdue books, and membe
 
 Technologies Used:
 
-Python 3.x
-mysql
-xampp 
+Python 3.x,
+mysql,
+xampp .
